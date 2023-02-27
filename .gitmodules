@@ -1,0 +1,3 @@
+[submodule "project-1/MyStory"]
+	path = project-1/MyStory
+	url = https://github.com/Mvrs/MyStory.git
